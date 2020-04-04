@@ -8,7 +8,7 @@
 int main(void) {
 
     /* Variable Definition */
-    char name [100];
+    char name[100];
     float sum, grade, average;
     int students, total, exams;
 
